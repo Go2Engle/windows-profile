@@ -1,0 +1,107 @@
+{
+    "winget": {
+        "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+        "CreationDate": "2023-07-12 13:41:08.260233",
+        "Sources": [
+            {
+                "Packages": [
+                    {
+                        "PackageIdentifier": "Zoom.Zoom"
+                    },
+                    {
+                        "PackageIdentifier": "XCP-ng.Center"
+                    },
+                    {
+                        "PackageIdentifier": "WinSCP.WinSCP"
+                    },
+                    {
+                        "PackageIdentifier": "tailscale.tailscale"
+                    },
+                    {
+                        "PackageIdentifier": "Valve.Steam"
+                    },
+                    {
+                        "PackageIdentifier": "SlackTechnologies.Slack"
+                    },
+                    {
+                        "PackageIdentifier": "ShareX.ShareX"
+                    },
+                    {
+                        "PackageIdentifier": "suse.RancherDesktop"
+                    },
+                    {
+                        "PackageIdentifier": "Prusa3D.PrusaSlicer"
+                    },
+                    {
+                        "PackageIdentifier": "XP89DCGQ3K6VLD"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.PowerShell"
+                    },
+                    {
+                        "PackageIdentifier": "Oracle.VirtualBox"
+                    },
+                    {
+                        "PackageIdentifier": "JanDeDobbeleer.OhMyPosh"
+                    },
+                    {
+                        "PackageIdentifier": "Notion.Notion"
+                    },
+                    {
+                        "PackageIdentifier": "Microsoft.Teams"
+                    },
+                    {
+                        "PackageIdentifier": "Mattermost.MattermostDesktop"
+                    },
+                    {
+                        "PackageIdentifier": "gerardog.gsudo"
+                    },
+                    {
+                        "PackageIdentifier": "GitHub.GitHubDesktop"
+                    },
+                    {
+                        "PackageIdentifier": "Git.Git"
+                    },
+                    {
+                        "PackageIdentifier": "Gyan.FFmpeg"
+                    },
+                    {
+                        "PackageIdentifier": "Discord.Discord"
+                    },
+                    {
+                        "PackageIdentifier": "DelugeTeam.Deluge"
+                    },
+                    {
+                        "PackageIdentifier": "lencx.ChatGPT"
+                    },
+                    {
+                        "PackageIdentifier": "7zip.7zip"
+                    }
+                ],
+                "SourceDetails": {
+                    "Argument": "https://cdn.winget.microsoft.com/cache",
+                    "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+                    "Name": "winget",
+                    "Type": "Microsoft.PreIndexed.Package"
+                }
+            }
+        ],
+        "WinGetVersion": "v1.5.1572\r"
+    },
+    "scoop": {
+        "apps": []
+    },
+    "chocolatey": {
+        "apps": [
+            {
+                "Name": "gping"
+            }
+        ]
+    },
+    "pip": {
+        "apps": []
+    },
+    "npm": {
+        "apps": []
+    }
+}
